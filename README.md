@@ -22,6 +22,7 @@ New nodes can be added by configuration rather than creating entirely new compon
 * Vector Query
 * Data Loader
 * Merge
+* Condition
 * Split Text
 
 This approach significantly improves maintainability and scalability.
