@@ -199,18 +199,6 @@ Navigate to backend:
 cd backend
 ```
 
-Create virtual environment:
-
-```bash
-python3 -m venv venv
-```
-
-Activate:
-
-```bash
-source venv/bin/activate
-```
-
 Install dependencies:
 
 ```bash
@@ -227,12 +215,6 @@ Backend:
 
 ```txt
 http://localhost:8000
-```
-
-Swagger:
-
-```txt
-http://localhost:8000/docs
 ```
 
 ---
