@@ -21,7 +21,6 @@ New nodes can be added by configuration rather than creating entirely new compon
 
 * Vector Query
 * Data Loader
-* Chat Memory
 * Merge
 * Split Text
 
